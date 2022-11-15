@@ -96,5 +96,4 @@ int MinSum(int[,] secondArray)
     }
     return line;
 }
-MinSum(secondArray);
 Console.WriteLine($"Наименьшая сумма в строке: {MinSum(secondArray)}");
